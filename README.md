@@ -2,4 +2,4 @@
 
 # Димитар Мојсоски, бр. на индекс 131084
 
-# Control Flow Graph
+- Control Flow Graph
